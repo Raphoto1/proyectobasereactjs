@@ -1,9 +1,13 @@
 import React from 'react'
 
-function CartWitget() {
+function CartWitget(props) {
   return (
-    <div>
-      <img className='shoppingCartIcon' src='./assets/Icons/ShoppingCart.png'/>
+    <div className='cartGroup'>
+      <a href="/">
+        <h1>{props.amount}</h1>
+        <img className='shoppingCartIcon' src='./assets/Icons/ShoppingCart.png'/>
+      </a>
+      
     </div>
   )
 }

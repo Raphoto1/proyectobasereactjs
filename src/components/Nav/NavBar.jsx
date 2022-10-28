@@ -18,7 +18,7 @@ function NavBar() {
                     <a href="/">Categoria 2</a>
                 </li>
                 <li>
-                    <CartWitget/>
+                    <CartWitget amount="2"/>
                 </li>
             </ul>
         </div>
