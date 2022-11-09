@@ -1,5 +1,7 @@
 @use "./styleSass/index";
 @use "./styleSass/navBar";
+@use "./styleSass/itemListContainer";
+@use "./styleSass/itemCard";
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -15,7 +15,7 @@ function ItemListContainer(props) {
   }, []);
 
   return (
-    <div className='itemList'>
+    <div className='item-list'>
       {products.map((product) => {
         return(
           <ItemCard
@@ -23,7 +23,11 @@ function ItemListContainer(props) {
             id={product.id}
             imgUrl={product.photo}
             title={product.title}
+            style={product.style}
             desc={product.text}
+            shop1={product.shop1}
+            shop2={product.shop2}
+            shop3={product.shop3}
           />
         )
       })}
