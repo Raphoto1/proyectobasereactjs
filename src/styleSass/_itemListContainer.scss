@@ -1,8 +1,14 @@
 .item-list{
     display: flex; 
     position: relative;
-    padding-top: 7%;
+    padding-top: 2%;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
   }
+.titleCat{
+
+  h1{
+    color: white;
+  }
+}

@@ -12,13 +12,19 @@ function NavBar() {
         <div className="navGroupList">
             <ul className="burguerList">
                 <li>
-                    <a href="/">Categoria 1</a>
+                    <h3>Filter by styles</h3>
                 </li>
                 <li>
-                    <a href="/">Categoria 2</a>
+                    <a href="/">Traditional</a>
                 </li>
                 <li>
-                    <CartWitget amount="2"/>
+                    <a href="/">Digital</a>
+                </li>
+                <li>
+                    <a href="/">Photography</a>
+                </li>
+                <li>
+                    <CartWitget amount="3"/>
                 </li>
             </ul>
         </div>

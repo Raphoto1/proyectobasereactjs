@@ -1,11 +1,11 @@
-import React from 'react'
-import ItemCard from './ItemCard'
-import bringData from '../../Services/mockService'
-import { useState, useEffect } from 'react'
+import React from "react";
+import ItemCard from "./ItemCard";
+import bringData from "../../Services/mockService";
+import { useState, useEffect } from "react";
 
 function ItemListContainer(props) {
   const [products, setProducts] = useState([]);
-  async function getDataAsync(){
+  async function getDataAsync() {
     let response = await bringData();
     setProducts(response);
   }
@@ -15,24 +15,29 @@ function ItemListContainer(props) {
   }, []);
 
   return (
-    <div className='item-list'>
-      {products.map((product) => {
-        return(
-          <ItemCard
-            key={product.id}
-            id={product.id}
-            imgUrl={product.photo}
-            title={product.title}
-            style={product.style}
-            desc={product.text}
-            shop1={product.shop1}
-            shop2={product.shop2}
-            shop3={product.shop3}
-          />
-        )
-      })}
-    </div>
-  )
+    <>
+      <div className="titleCat">
+        <h1>All Products</h1>
+      </div>
+      <div className="item-list">
+        {products.map((product) => {
+          return (
+            <ItemCard
+              key={product.id}
+              id={product.id}
+              imgUrl={product.photo}
+              title={product.title}
+              style={product.style}
+              desc={product.text}
+              shop1={product.shop1}
+              shop2={product.shop2}
+              shop3={product.shop3}
+            />
+          );
+        })}
+      </div>
+    </>
+  );
 }
 
-export default ItemListContainer
+export default ItemListContainer;
