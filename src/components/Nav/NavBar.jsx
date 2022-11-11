@@ -1,10 +1,14 @@
 import React from 'react'
 import CartWitget from './CartWitget'
+import { Link } from "react-router-dom";
+
 function NavBar() {
   return (
     <nav id='navega' className='navegaReact'>
         <div className='logoNav'>
-            <img src="/Assets/Icons/IconoR.png" alt="IconoRafa" />
+            <Link to="/">
+                <img src="/Assets/Icons/IconoR.png" alt="IconoRafa" />
+            </Link>
         </div>
         <div className="search">
             <input type="text" />
@@ -15,13 +19,13 @@ function NavBar() {
                     <h3>Filter by styles</h3>
                 </li>
                 <li>
-                    <a href="/">Traditional</a>
+                    <Link to="/category/Traditional">Traditional</Link>
                 </li>
                 <li>
-                    <a href="/">Digital</a>
+                    <Link to="/category/Digital">Digital</Link>
                 </li>
                 <li>
-                    <a href="/">Photography</a>
+                    <Link to="/category/Photography">Photography</Link>
                 </li>
                 <li>
                     <CartWitget amount="3"/>

@@ -2,22 +2,27 @@ import React from "react";
 import ItemCard from "./ItemCard";
 import bringData from "../../Services/mockService";
 import { useState, useEffect } from "react";
+import { useParams } from "react-router-dom";
 
 function ItemListContainer(props) {
   const [products, setProducts] = useState([]);
+  const { idCategory } = useParams();
+
+  //traer la data
   async function getDataAsync() {
-    let response = await bringData();
+    let response = await bringData(idCategory);
+    console.log(response);
     setProducts(response);
   }
 
   useEffect(() => {
     getDataAsync();
-  }, []);
+  }, [idCategory]);
 
   return (
     <>
       <div className="titleCat">
-        <h1>All Products</h1>
+        <h1>{idCategory}</h1>
       </div>
       <div className="item-list">
         {products.map((product) => {

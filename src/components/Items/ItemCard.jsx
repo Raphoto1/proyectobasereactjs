@@ -1,8 +1,10 @@
 import React from "react";
 import FavButton from "../Buttons/favButton";
 import LinkShops from "./LinkShops";
+import {Link} from "react-router-dom"
 
 function ItemCard(props) {
+  const urlDetail = `/detail/${props.id}`;
   return (
     <div className="card">
       <FavButton icon="♥" />
@@ -16,7 +18,9 @@ function ItemCard(props) {
         <p>{props.desc}</p>
       </div>
       <div className="checkDetails">
-        <button className="checkDetailsBtn">Check details</button>
+        <Link to={urlDetail}>
+          <button className="checkDetailsBtn">Check details</button>
+        </Link>
       </div>
       <div className="buttons">
         <LinkShops
