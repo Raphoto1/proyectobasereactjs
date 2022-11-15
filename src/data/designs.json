@@ -7,7 +7,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/44215676?asc=u",
     "shop2": "https://society6.com/product/blue-flower-sketch_print",
-    "shop3": "https://displate.com//displate/1769006?art=5c9d663484046"
+    "shop3": "https://displate.com//displate/1769006?art=5c9d663484046",
+    "stock": 1
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/44713626?asc=u",
     "shop2": "https://society6.com/product/cactus-sketch2609163_print",
-    "shop3": "https://displate.com//displate/1821170?art=5c9d663484046"
+    "shop3": "https://displate.com//displate/1821170?art=5c9d663484046",
+    "stock": 2
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/39029341?asc=u",
     "shop2": "https://society6.com/product/chicken-nugget2094064_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 3
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/37680146?asc=u",
     "shop2": "https://society6.com/product/chiva-1_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 4
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/37791536?asc=u",
     "shop2": "https://society6.com/product/chiva-butterfly_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 5
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/41927627?asc=u",
     "shop2": "https://society6.com/product/echo-map-latinoamerica_print",
-    "shop3": "https://displate.com/displate/1388709?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/1388709?art=5c9d663484046",
+    "stock": 6
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/39471743?asc=u",
     "shop2": "",
-    "shop3": ""
+    "shop3": "",
+    "stock": 7
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/43470538?asc=u",
     "shop2": "https://society6.com/product/elephant2521959_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 8
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/33278445?asc=u",
     "shop2": "https://society6.com/product/fish-0vm_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 9
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/33278103?asc=u",
     "shop2": "https://society6.com/product/flamingo-cqw_print",
-    "shop3": "https://displate.com//displate/1622080?art=5c9d663484046"
+    "shop3": "https://displate.com//displate/1622080?art=5c9d663484046",
+    "stock": 10
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/43873587?asc=u",
     "shop2": "https://society6.com/product/yellow-flower2553552_print",
-    "shop3": "https://displate.com/displate/1733922?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/1733922?art=5c9d663484046",
+    "stock": 11
   },
   {
     "id": 12,
@@ -117,7 +128,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/44080791?asc=u",
     "shop2": "https://society6.com/product/purpple-flower-sketch_print",
-    "shop3": "https://displate.com/displate/1757905?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/1757905?art=5c9d663484046",
+    "stock": 12
   },
   {
     "id": 13,
@@ -127,7 +139,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/44407738?asc=u",
     "shop2": "https://society6.com/product/sketch-flower-pink-2_print",
-    "shop3": "https://displate.com/displate/1789114?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/1789114?art=5c9d663484046",
+    "stock": 13
   },
   {
     "id": 14,
@@ -137,7 +150,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/43783422?asc=u",
     "shop2": "https://society6.com/product/cat2548588_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 14
   },
   {
     "id": 15,
@@ -147,7 +161,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/38170654?asc=u",
     "shop2": "https://society6.com/product/ice-cream1995942_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 15
   },
   {
     "id": 16,
@@ -157,7 +172,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/38225870",
     "shop2": "https://society6.com/product/vainilla-ice-cream_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 16
   },
   {
     "id": 17,
@@ -167,7 +183,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/40752226?asc=u",
     "shop2": "https://society6.com/product/jaguar2302812_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 17
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/41996900?asc=u",
     "shop2": "",
-    "shop3": "https://displate.com/displate/1394453?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/1394453?art=5c9d663484046",
+    "stock": 18
   },
   {
     "id": 19,
@@ -187,7 +205,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/36355711?asc=u",
     "shop2": "https://society6.com/product/splash-lighthouse_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 19
   },
   {
     "id": 20,
@@ -197,7 +216,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/39200279?asc=u",
     "shop2": "https://society6.com/product/pattern-love2109739_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 20
   },
   {
     "id": 21,
@@ -207,7 +227,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/38154503?asc=u",
     "shop2": "https://society6.com/product/daisy-flower1995955_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 21
   },
   {
     "id": 22,
@@ -217,7 +238,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/44529824?asc=u",
     "shop2": "https://society6.com/product/margarita-sketch_print",
-    "shop3": "https://displate.com/displate/1801033?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/1801033?art=5c9d663484046",
+    "stock": 22
   },
   {
     "id": 23,
@@ -227,7 +249,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/33278258?asc=u",
     "shop2": "https://society6.com/product/max-1ci_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 23
   },
   {
     "id": 24,
@@ -237,7 +260,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/38647203?asc=u",
     "shop2": "https://society6.com/product/floating-earth2060332_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 24
   },
   {
     "id": 25,
@@ -247,7 +271,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/44892419?asc=u",
     "shop2": "https://society6.com/product/orchid-sketch2619670_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 25
   },
   {
     "id": 26,
@@ -257,7 +282,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/43187519?asc=u",
     "shop2": "https://society6.com/product/bird2507147_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 26
   },
   {
     "id": 27,
@@ -267,7 +293,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/40737896?asc=u",
     "shop2": "https://society6.com/product/gold-muisca-pattern_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 27
   },
   {
     "id": 28,
@@ -277,7 +304,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/40099037?asc=u",
     "shop2": "https://society6.com/product/muisca-pattern_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 28
   },
   {
     "id": 29,
@@ -287,7 +315,8 @@
     "style": "Photography",
     "shop1": "https://www.redbubble.com/es/shop/ap/36431178?asc=u",
     "shop2": "https://society6.com/product/flower-3896016_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 29
   },
   {
     "id": 30,
@@ -297,7 +326,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/41498001?asc=u",
     "shop2": "https://society6.com/product/pills-cowboy_print",
-    "shop3": "https://displate.com/displate/1356330?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/1356330?art=5c9d663484046",
+    "stock": 30
   },
   {
     "id": 31,
@@ -307,7 +337,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/44252414?asc=u",
     "shop2": "https://society6.com/product/pink-sketch-flower_print",
-    "shop3": "https://displate.com/displate/1773317?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/1773317?art=5c9d663484046",
+    "stock": 31
   },
   {
     "id": 32,
@@ -317,7 +348,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/33297362?asc=u",
     "shop2": "https://society6.com/product/ninetopus_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 32
   },
   {
     "id": 33,
@@ -327,7 +359,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/36201257?asc=u",
     "shop2": "https://society6.com/product/mouse-ino_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 33
   },
   {
     "id": 34,
@@ -337,7 +370,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/43974602?asc=u",
     "shop2": "https://society6.com/product/rose-sketch2558924_print",
-    "shop3": "https://displate.com/displate/1740850?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/1740850?art=5c9d663484046",
+    "stock": 34
   },
   {
     "id": 35,
@@ -347,7 +381,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/44834524?asc=u",
     "shop2": "",
-    "shop3": ""
+    "shop3": "",
+    "stock": 35
   },
   {
     "id": 36,
@@ -357,7 +392,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/38018380?asc=u",
     "shop2": "https://society6.com/product/chiva-pattern_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 36
   },
   {
     "id": 37,
@@ -367,7 +403,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/41384860?asc=u",
     "shop2": "https://society6.com/product/icecream-pattern2329844_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 37
   },
   {
     "id": 38,
@@ -377,7 +414,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/38226289?asc=u",
     "shop2": "https://society6.com/product/vainilla-or-chocolate_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 38
   },
   {
     "id": 39,
@@ -387,7 +425,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/39218996?asc=u",
     "shop2": "https://society6.com/product/fox353468_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 39
   },
   {
     "id": 40,
@@ -397,7 +436,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/57521334?asc=u",
     "shop2": "https://society6.com/product/unicorn-with-hoodie_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 40
   },
   {
     "id": 41,
@@ -407,7 +447,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/54892390?asc=u",
     "shop2": "https://society6.com/product/transformation3353190_print",
-    "shop3": "https://displate.com/displate/3471895"
+    "shop3": "https://displate.com/displate/3471895",
+    "stock": 41
   },
   {
     "id": 42,
@@ -417,7 +458,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/48772536?asc=u",
     "shop2": "https://society6.com/product/taco-time2905170_print",
-    "shop3": "https://displate.com/displate/2549782?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/2549782?art=5c9d663484046",
+    "stock": 42
   },
   {
     "id": 43,
@@ -427,7 +469,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/49048340?asc=u",
     "shop2": "",
-    "shop3": ""
+    "shop3": "",
+    "stock": 43
   },
   {
     "id": 44,
@@ -437,7 +480,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/58154695?asc=u",
     "shop2": "https://society6.com/product/make-it-real3386947_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 44
   },
   {
     "id": 45,
@@ -447,7 +491,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/49192557?asc=u",
     "shop2": "",
-    "shop3": ""
+    "shop3": "",
+    "stock": 45
   },
   {
     "id": 46,
@@ -457,7 +502,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/56400235?asc=u",
     "shop2": "https://society6.com/product/octopus-mind_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 46
   },
   {
     "id": 47,
@@ -467,7 +513,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/55573797?asc=u",
     "shop2": "https://society6.com/product/notice-the-message3348244_print",
-    "shop3": "https://displate.com//displate/3601891?art=5c9d663484046"
+    "shop3": "https://displate.com//displate/3601891?art=5c9d663484046",
+    "stock": 47
   },
   {
     "id": 48,
@@ -477,7 +524,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/58789258?asc=u",
     "shop2": "",
-    "shop3": ""
+    "shop3": "",
+    "stock": 48
   },
   {
     "id": 49,
@@ -487,7 +535,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/57269998?asc=u",
     "shop2": "https://society6.com/product/screaming-egg_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 49
   },
   {
     "id": 50,
@@ -497,7 +546,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/53228277?asc=u",
     "shop2": "https://society6.com/product/fly-away3144120_print",
-    "shop3": "https://displate.com/displate/3311641?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/3311641?art=5c9d663484046",
+    "stock": 50
   },
   {
     "id": 51,
@@ -507,7 +557,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/48271682?asc=u",
     "shop2": "",
-    "shop3": "https://displate.com/displate/2461626?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/2461626?art=5c9d663484046",
+    "stock": 51
   },
   {
     "id": 52,
@@ -517,7 +568,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/45980421?asc=u",
     "shop2": "https://society6.com/product/bird-sketch2700902_print",
-    "shop3": "https://displate.com/displate/2065495?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/2065495?art=5c9d663484046",
+    "stock": 52
   },
   {
     "id": 53,
@@ -527,7 +579,8 @@
     "style": "Traditional",
     "shop1": "https://www.redbubble.com/es/shop/ap/46318282?asc=u",
     "shop2": "https://society6.com/product/hummingbird-sketch2729513_print",
-    "shop3": "https://displate.com/displate/2130336?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/2130336?art=5c9d663484046",
+    "stock": 53
   },
   {
     "id": 54,
@@ -537,7 +590,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/45527464?asc=u",
     "shop2": "",
-    "shop3": ""
+    "shop3": "",
+    "stock": 54
   },
   {
     "id": 55,
@@ -547,7 +601,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/46103998?asc=u",
     "shop2": "https://society6.com/product/doodle-box-color_print",
-    "shop3": "https://displate.com/displate/2090444?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/2090444?art=5c9d663484046",
+    "stock": 55
   },
   {
     "id": 56,
@@ -557,7 +612,8 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/46427176?asc=u",
     "shop2": "https://society6.com/product/doodle-box-lines_print",
-    "shop3": ""
+    "shop3": "",
+    "stock": 56
   },
   {
     "id": 57,
@@ -567,6 +623,7 @@
     "style": "Digital",
     "shop1": "https://www.redbubble.com/es/shop/ap/46129433?asc=u",
     "shop2": "",
-    "shop3": "https://displate.com/displate/2111229?art=5c9d663484046"
+    "shop3": "https://displate.com/displate/2111229?art=5c9d663484046",
+    "stock": 57
   }
 ]

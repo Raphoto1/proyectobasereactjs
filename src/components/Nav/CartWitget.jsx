@@ -5,7 +5,7 @@ function CartWitget(props) {
     <div className='cartGroup'>
       <a href="/">
         <h2>{props.amount}</h2>
-        <img className='shoppingCartIcon' src='./assets/Icons/ShoppingCart.png'/>
+        <img className='shoppingCartIcon' src='./assets/Icons/shoppingCart.png'/>
       </a>
       
     </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import FavButton from "../Buttons/favButton";
+import FavButton from "../Buttons/FavButton";
 import LinkShops from "./LinkShops";
 import {Link} from "react-router-dom"
 

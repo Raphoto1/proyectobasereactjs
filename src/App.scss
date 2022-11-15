@@ -2,6 +2,7 @@
 @use "./styleSass/navBar";
 @use "./styleSass/itemListContainer";
 @use "./styleSass/itemCard";
+@use "./styleSass/itemDetail";
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -10,7 +11,7 @@
 }
 .App{
   background-color: #282c34;
-  min-height: 100vh;
+  top: 0;
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -1,0 +1,32 @@
+.itemDetail{
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    width: 100vw;
+    text-align: center;
+    img{
+        height: 80vh;
+        padding-left: 5%;
+        text-align: center;
+    }    
+}
+.descDetail{
+    align-items: center;
+    width: 100%;
+    h1{
+        padding: 5%;
+        align-items: center;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+}
+.itemCounter_container{
+    align-items: center;
+    padding: 5%;
+    text-align: center;
+}
+button{
+width: 100%;
+}

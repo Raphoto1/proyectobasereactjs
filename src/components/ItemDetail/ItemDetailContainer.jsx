@@ -7,12 +7,10 @@ import ItemDetail from './ItemDetail';
 function ItemDetailContainer() {
   const [product, setProduct] = useState([])
   const {idItem} = useParams();
-  console.log(useParams());
 
   async function getItemsAsync(){
     let answer = await getSingleItem(idItem);
     setProduct(answer);
-    console.log(useParams);
   }
   
   useEffect(() => {
