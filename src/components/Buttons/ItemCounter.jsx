@@ -15,14 +15,14 @@ function ItemCounter({stock, onAddToCart, text}) {
     return (
     <div className="itemCounter_container">
       <div className="itemCounter_control">
-        <button className="substract" onClick={handleSubstract}>
-            -
+      <button className="substract" onClick={handleAdd}>
+            +
         </button>
         <span>
             {count}
         </span>
-        <button className="substract" onClick={handleAdd}>
-            +
+        <button className="substract" onClick={handleSubstract}>
+            -
         </button>
         <button className="addToCart" onClick={()=> onAddToCart(count)}>
             {text}
