@@ -2,6 +2,7 @@ import React from "react";
 import FavButton from "../Buttons/FavButton";
 import LinkShops from "./LinkShops";
 import {Link} from "react-router-dom"
+import Button from 'react-bootstrap/Button';
 
 function ItemCard(props) {
   const urlDetail = `/detail/${props.id}`;
@@ -19,7 +20,7 @@ function ItemCard(props) {
       </div>
       <div className="checkDetails">
         <Link to={urlDetail}>
-          <button className="checkDetailsBtn">Check details</button>
+          <Button variant="success" className="checkDetailsBtn">Check details</Button>
         </Link>
       </div>
       <div className="buttons">

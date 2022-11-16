@@ -1,14 +1,15 @@
 import './App.scss';
-import NavBar from './components/Nav/NavBar';
+import NavBarRafa from './components/Nav/NavBarRafa';
 import ItemListContainer from './components/Items/ItemListContainer';
 import ItemDetailContainer from './components/ItemDetail/ItemDetailContainer';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
-        <NavBar/>
+        <NavBarRafa/>
         <Routes>
           <Route path='/' element={<ItemListContainer/>}/>
           <Route path='/category/:idCategory' element={<ItemListContainer/>}/>

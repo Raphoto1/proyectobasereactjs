@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Button } from "react-bootstrap";
 
 function ItemCounter({stock, onAddToCart, text}) {
     //se crea espacio de conteo
@@ -15,18 +16,18 @@ function ItemCounter({stock, onAddToCart, text}) {
     return (
     <div className="itemCounter_container">
       <div className="itemCounter_control">
-      <button className="substract" onClick={handleAdd}>
+      <Button variant="success" className="substract" onClick={handleAdd}>
             +
-        </button>
+        </Button>
         <span>
             {count}
         </span>
-        <button className="substract" onClick={handleSubstract}>
+        <Button variant="danger" className="substract" onClick={handleSubstract}>
             -
-        </button>
-        <button className="addToCart" onClick={()=> onAddToCart(count)}>
+        </Button>
+        <Button className="addToCart" onClick={()=> onAddToCart(count)}>
             {text}
-        </button>
+        </Button>
       </div>
     </div>
   );
